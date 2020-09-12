@@ -1,0 +1,24 @@
+{
+  "name": "habit-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mazgel/Habit-Tracker.git"
+  },
+  "author": "Mazgel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mazgel/Habit-Tracker/issues"
+  },
+  "homepage": "https://github.com/Mazgel/Habit-Tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "signale": "^1.4.0"
+  }
+}
